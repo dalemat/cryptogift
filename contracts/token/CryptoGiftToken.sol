@@ -1,7 +1,7 @@
 pragma solidity ^0.4.24;
 
-import "openzeppelin-solidity/contracts/token/ERC721/ERC721Full.sol";
-import "openzeppelin-solidity/contracts/access/roles/MinterRole.sol";
+import "https://github.com/itinance/openzeppelin-solidity/blob/master/contracts/token/ERC721/ERC721Full.sol";
+import "https://github.com/utgarda/openzeppelin-solidity/blob/master/contracts/access/roles/MinterRole.sol";
 import "https://github.com/dalemat/eth-token-recover/blob/master/contracts/TokenRecover.sol";
 
 /**
