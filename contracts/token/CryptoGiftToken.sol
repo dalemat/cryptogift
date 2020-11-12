@@ -2,7 +2,7 @@ pragma solidity ^0.4.24;
 
 import "openzeppelin-solidity/contracts/token/ERC721/ERC721Full.sol";
 import "openzeppelin-solidity/contracts/access/roles/MinterRole.sol";
-import "eth-token-recover/contracts/TokenRecover.sol";
+import "https://github.com/dalemat/eth-token-recover/blob/master/contracts/TokenRecover.sol";
 
 /**
  * @title CryptoGiftToken
